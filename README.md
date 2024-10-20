@@ -14,9 +14,6 @@ This project aims to demonstrate real-time gender detection using Random Forest,
    ```bash
    git clone <repository_url>
    cd Real-Time-Gender-Detection
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
 3. **Train the Model**:
    - Open `algorithm_path.py` and execute the code to train the gender detection model.
    - Ensure the image data is available in the specified directories
